@@ -1,0 +1,2 @@
+twig:
+    default_path: '%kernel.project_dir%/templates' #Toutes les vues vont se trouver dans le dossier templates qui se trouve à la racine de mon projet
